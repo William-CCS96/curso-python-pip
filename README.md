@@ -4,5 +4,15 @@ Para correr el juego debes seguir las siguientes indtrucciones en la terminal:
 
 ```sh
 cd game
-python2 main.py
+python3 main.py
+```
+
+# App Project
+
+```sh
+git clone
+cd app
+source env-app/bin/activate
+pip3 install -r requirements.txt
+python3 main.py
 ```
